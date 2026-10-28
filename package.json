@@ -1,0 +1,13 @@
+{
+  "name": "tseslint-no-deprecated-alias-cycle",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "eslint a.ts"
+  },
+  "devDependencies": {
+    "eslint": "10.13.0",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.72.1"
+  }
+}
